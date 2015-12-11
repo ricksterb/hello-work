@@ -4,4 +4,4 @@ H1 Hello Humanoids!!
 
 No this is not just another repository
 
-H2  It's MY repository
+H2  It's MY repository - don't mess with it!
